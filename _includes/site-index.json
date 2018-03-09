@@ -80,5 +80,28 @@
             "gif"
         ],
         "title": "cutecat2.gif"
-    }
+    },
+	{
+		"category": "creepyfish",
+		"path": "creepyfish/giphy.gif",
+		"tags": [
+			"creepy",
+			"fish",
+			"gif"
+		 ],
+		"title": "giphy.gif"
+	},
+	{
+		"category": "seth",
+		"path": "seth/giphy-downsized.gif",
+		"tags": [
+			"seth"
+			"show"
+			"gif"
+		],
+		"title": "giphy-downsized.gif"
+	}	
+			
+		
+		
 ]
